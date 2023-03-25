@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Capoeira Override Controller
+  m_Controller: {fileID: 9100000, guid: 848d35cde955dbb41ab20ad45910fe0e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e3e08819437f0bf478add8f45939d26c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 88a0dd61e0c603e4e9244233ee0814d6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ff5528392a4e61d4f9c4556da0646cc3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 579f3205619a7734098516553f99d5dd, type: 2}
